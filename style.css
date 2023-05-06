@@ -1,0 +1,31 @@
+body {
+color: white;
+background-image: url(notcool.webp);
+
+}
+
+.heading{
+width: 80%;
+font-size: 22px;
+background-color: rgba(191, 191, 192, 0.356);
+color: aliceblue;
+
+}
+
+#camera{
+width: 300px;
+height: 250px;
+border: 2px dashed rgba(61, 61, 61, 0.184);
+
+}
+
+.name_of_objects , #result_object_name , #result_object_accuracy{
+color: rgb(0, 225, 255);
+
+}
+
+p:hover{
+    text-decoration: underline;
+    
+    }
+
